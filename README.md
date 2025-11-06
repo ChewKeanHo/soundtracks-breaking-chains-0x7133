@@ -10,9 +10,11 @@ you. It is an attempt to combine dance vocal and video making background music.
 
   File: Audios/13_Breaking-Chains-0x7133.mp3
   Size: 11091968        Blocks: 21664      IO Block: 4096   regular file
-Access: 2025-11-05 15:44:34.948293787 +0800
-Modify: 2025-11-05 15:38:00.626426694 +0800
-Change: 2025-11-05 15:38:00.626426694 +0800
+Device: 253,2   Inode: 40768910    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/      u0)   Gid: ( 1000/      u0)
+Access: 2025-11-06 16:06:35.347772681 +0800
+Modify: 2025-11-06 16:06:40.475796507 +0800
+Change: 2025-11-06 16:06:40.475796507 +0800
  Birth: 2025-07-20 11:08:06.471914607 +0800
 
 On Published Date: 2025-08-06
