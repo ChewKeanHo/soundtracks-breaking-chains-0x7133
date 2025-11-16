@@ -10,9 +10,7 @@ you. It is an attempt to combine dance vocal and video making background music.
 
   File: Audios/13_Breaking-Chains-0x7133.mp3
   Size: 11091968        Blocks: 21664      IO Block: 4096   regular file
-Device: 253,2   Inode: 40768910    Links: 1
-Access: (0644/-rw-r--r--)  Uid: ( 1000/      u0)   Gid: ( 1000/      u0)
-Access: 2025-11-06 16:06:35.347772681 +0800
+Access: 2025-11-17 06:11:39.063347792 +0800
 Modify: 2025-11-06 16:06:40.475796507 +0800
 Change: 2025-11-06 16:06:40.475796507 +0800
  Birth: 2025-07-20 11:08:06.471914607 +0800
@@ -34,6 +32,7 @@ On YouTube since : 2026-06-13
 * [Agreed OBS Waveform License](.internals/terms-of-services/OBS_Waveform_LICENSE.txt)
 * [Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf)
 * [Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
+* [20251030 UDIO Severances](https://github.com/ChewKeanHo/press-20251030-severances-from-udio)
 
 
 
@@ -54,11 +53,14 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : Breaking Chains 0x7133
-Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-breaking-chains-0x7133
-License: (Holloway) Chew, Kean Ho's Proprietary License
-Procure: Coming Soon
+Title: Breaking Chains 0x7133
+Creators: (Holloway) Chew, Kean Ho + UDIO
+Contact: hello@hollowaykeanho.com
+SKU: chewkeanho-soundtracks-breaking-chains-0x7133
+License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
+Made On: 2025-08-06 (before 2025-10-30 terms of service changes)
+Made From: https://www.udio.com/
+Procure: https://github.com/ChewKeanHo/soundtracks-breaking-chains-0x7133
 --------------------------------------------------------------------------------
 ```
 
